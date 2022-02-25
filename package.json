@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "4.3.1",
+  "description": "tests",
+  "author": "test",
+  "scripts": {
+    "test": "bash test.sh"
+  }
+}
